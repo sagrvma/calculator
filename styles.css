@@ -97,7 +97,3 @@ button:active {
 #clear-btn:active {
   background-color: rgb(255, 184, 97);
 }
-
-backspace-btn {
-  font-size: 25px;
-}
